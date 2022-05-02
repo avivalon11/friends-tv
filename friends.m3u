@@ -1,79 +1,111 @@
 #EXTM3U
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/NmnXn2z.jpg" group-title="News",Channel 2 News
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/NmnXn2z.jpg" group-title="News",Channel 2 News
-https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/2RC8nh6.jpg" group-title="Music",Channel 24 (720p)
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Discovery Channel [Geo]
-http://s1-p3.peer5.net/edge/44-1.stream/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Disney Channel [Geo]
-http://s1-p3.peer5.net/edge/41-1.stream/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/OzjftEl.png" group-title="Undefined",Hala TV (1080p) [Not 24/7]
-https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/OzjftEl.png" group-title="Undefined",Hala TV (1080p) [Not 24/7]
-https://live2.panet.co.il/edge_abr/halaTV/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/wKi97Pg.png" group-title="Religious",Hidabroot (576p)
-https://stream5.shidur.net/htvlive2/smil:live2.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/wKi97Pg.png" group-title="Religious",Hidabroot (576p)
-https://stream72.shidur.net/htvlive2/smil:live2.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/wKi97Pg.png" group-title="Religious",Hidabroot (576p) [Not 24/7]
-https://stream71.shidur.net/htvlive2/smil:live2.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" group-title="Undefined",Kabbalah for the People (Israel)
-http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" group-title="Undefined",Kabbalah for the People (Israel)
-https://edge2.uk.kab.tv/rtplive/tv66-heb-medium.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" group-title="Undefined",Kabbalah for the People (Israel)
-https://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" group-title="Undefined",Kabbalah for the People (Israel) (504p)
-https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/vqfNbEU.png" group-title="Undefined",Kan 11
-https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",National Geographic [Geo]
-http://s1-p3.peer5.net/edge/13-1.stream/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="Undefined",Reshet 13 (720p)
-https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES 4 HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92509?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES ACTION HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92510?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES COMEDY HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92511?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES Drama HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92514?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES Israeli Cinema
-http://tvakrep1.xyz:25461/05325999790/05325999790/92515?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES SPORT 1 HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92519?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES SPORT 2 HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92520?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES SPORT 3 HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92521?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES SPORT 4 HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92522?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES SPORT 5
-http://tvakrep1.xyz:25461/05325999790/05325999790/92523?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES SPORT 5 GOLD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92524?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES SPORT 5 LIVE
-http://tvakrep1.xyz:25461/05325999790/05325999790/92525?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES SPORT 5 PLUS HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92527?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES SPORT 5 STARS
-http://tvakrep1.xyz:25461/05325999790/05325999790/92528?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes DOCU
-http://tvakrep1.xyz:25461/05325999790/05325999790/92513?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Discovery
-http://tvakrep1.xyz:25461/05325999790/05325999790/92512?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Good Life HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92518?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Knesest Tv
-http://tvakrep1.xyz:25461/05325999790/05325999790/92516?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes TeenNick FHD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92529?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Travel Channel
-http://tvakrep1.xyz:25461/05325999790/05325999790/92530?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes makan 33
-http://tvakrep1.xyz:25461/05325999790/05325999790/92517?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",ZOOM HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92532?checkedby:iptvcat.com
+#EXTINF:-1,IL: YES Network
+http://tvakrep1.xyz:25461/05325999790/05325999790/92479
+#EXTINF:-1,IL: Baby TV
+http://tvakrep1.xyz:25461/05325999790/05325999790/92480
+#EXTINF:-1,IL: YES CBS Reality HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92481
+#EXTINF:-1,IL: CH 9
+http://tvakrep1.xyz:25461/05325999790/05325999790/92482
+#EXTINF:-1,IL: Kan 11
+http://tvakrep1.xyz:25461/05325999790/05325999790/92483
+#EXTINF:-1,IL: CH 12 HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92484
+#EXTINF:-1,IL: CH 20
+http://tvakrep1.xyz:25461/05325999790/05325999790/92485
+#EXTINF:-1,IL: Disney Jr
+http://tvakrep1.xyz:25461/05325999790/05325999790/92486
+#EXTINF:-1,IL: HALA TV FHD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92487
+#EXTINF:-1,IL: Hidabroot Channel
+http://tvakrep1.xyz:25461/05325999790/05325999790/92488
+#EXTINF:-1,IL: HOME +
+http://tvakrep1.xyz:25461/05325999790/05325999790/92489
+#EXTINF:-1,IL: HOT #
+http://tvakrep1.xyz:25461/05325999790/05325999790/92490
+#EXTINF:-1,IL: HOT 3 HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92491
+#EXTINF:-1,IL: HOT C4
+http://tvakrep1.xyz:25461/05325999790/05325999790/92492
+#EXTINF:-1,IL: JUNIOR
+http://tvakrep1.xyz:25461/05325999790/05325999790/92493
+#EXTINF:-1,IL: Kabbalah TV
+http://tvakrep1.xyz:25461/05325999790/05325999790/92494
+#EXTINF:-1,IL: YES Channel 2 News
+http://tvakrep1.xyz:25461/05325999790/05325999790/92495
+#EXTINF:-1,IL: Keshet 12 HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92496
+#EXTINF:-1,IL: YES Metv HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92497
+#EXTINF:-1,IL: MIKAN
+http://tvakrep1.xyz:25461/05325999790/05325999790/92498
+#EXTINF:-1,IL: MUSIC 24
+http://tvakrep1.xyz:25461/05325999790/05325999790/92499
+#EXTINF:-1,IL: YES Fashion HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92500
+#EXTINF:-1,IL: Reshet 13
+http://tvakrep1.xyz:25461/05325999790/05325999790/92501
+#EXTINF:-1,IL: YES Home +
+http://tvakrep1.xyz:25461/05325999790/05325999790/92502
+#EXTINF:-1,IL: Teen nick
+http://tvakrep1.xyz:25461/05325999790/05325999790/92503
+#EXTINF:-1,IL: VIVA
+http://tvakrep1.xyz:25461/05325999790/05325999790/92504
+#EXTINF:-1,IL: VIVA PLUS
+http://tvakrep1.xyz:25461/05325999790/05325999790/92505
+#EXTINF:-1,IL: YES 1 HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92506
+#EXTINF:-1,IL: YES 2 HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92507
+#EXTINF:-1,IL: YES Kids HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92508
+#EXTINF:-1,IL: YES 4 HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92509
+#EXTINF:-1,IL: YES ACTION HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92510
+#EXTINF:-1,IL: YES COMEDY HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92511
+#EXTINF:-1,IL: Yes Discovery
+http://tvakrep1.xyz:25461/05325999790/05325999790/92512
+#EXTINF:-1,IL: Yes DOCU
+http://tvakrep1.xyz:25461/05325999790/05325999790/92513
+#EXTINF:-1,IL: YES Drama HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92514
+#EXTINF:-1,IL: YES Israeli Cinema
+http://tvakrep1.xyz:25461/05325999790/05325999790/92515
+#EXTINF:-1,IL: Yes Knesest Tv
+http://tvakrep1.xyz:25461/05325999790/05325999790/92516
+#EXTINF:-1,IL: Yes makan 33
+http://tvakrep1.xyz:25461/05325999790/05325999790/92517
+#EXTINF:-1,IL: Yes Good Life HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92518
+#EXTINF:-1,IL: YES SPORT 1 HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92519
+#EXTINF:-1,IL: YES SPORT 2 HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92520
+#EXTINF:-1,IL: YES SPORT 3 HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92521
+#EXTINF:-1,IL: YES SPORT 4 HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92522
+#EXTINF:-1,IL: YES SPORT 5
+http://tvakrep1.xyz:25461/05325999790/05325999790/92523
+#EXTINF:-1,IL: YES SPORT 5 GOLD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92524
+#EXTINF:-1,IL: YES SPORT 5 LIVE
+http://tvakrep1.xyz:25461/05325999790/05325999790/92525
+#EXTINF:-1,IL: YES SPORT 5 PLUS
+http://tvakrep1.xyz:25461/05325999790/05325999790/92526
+#EXTINF:-1,IL: YES SPORT 5 PLUS HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92527
+#EXTINF:-1,IL: YES SPORT 5 STARS
+http://tvakrep1.xyz:25461/05325999790/05325999790/92528
+#EXTINF:-1,IL: Yes TeenNick FHD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92529
+#EXTINF:-1,IL: Yes Travel Channel
+http://tvakrep1.xyz:25461/05325999790/05325999790/92530
+#EXTINF:-1,IL: Yes Viva HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92531
+#EXTINF:-1,IL: ZOOM HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92532
+#EXTINF:-1,IL: YES ID HD
+http://tvakrep1.xyz:25461/05325999790/05325999790/92533
